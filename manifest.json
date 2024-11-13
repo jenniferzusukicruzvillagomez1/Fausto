@@ -1,0 +1,27 @@
+{
+    "short_name": "Tienda_Online",
+    "name": "Tienda",
+    "icons": [
+      {
+        "src": "/fondo1.jpg",
+        "sizes": "1920x1080",
+        "type": "image/jpeg",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "/tendedero.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#026198",
+    "theme_color": "#026198",
+    "orientation": "portrait",
+    "scope": "/",
+    "description": "Tarea",
+    "prefer_related_applications": false
+  }
+  
